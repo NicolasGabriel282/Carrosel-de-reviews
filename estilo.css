@@ -1,0 +1,77 @@
+body
+{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+align-items: center;
+text-align: center;
+background-color: rgb(232, 240, 248);
+display: flex;
+height: 100vh;
+justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.review
+{
+    width: 600px;
+    background-color: white;
+    height: 430px;
+    box-shadow: 5px 5px 3px rgb(218, 216, 216),-5px  -5px 3px rgb(218, 216, 216);
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+.setinha
+{
+    color:rgb(94, 207, 255);
+    background-color: rgba(0, 50, 83, 0.618);
+    border: 0px;
+    width: 30px;
+    font-size: x-large;
+    margin-top: 50px;
+}
+
+.imagem
+{
+    border-radius: 1000px;
+    width: 130px;
+    margin-top: 10px;
+    border: 3px rgb(87, 185, 255) solid;
+}
+.profissao
+{
+    margin-top: -20px;
+    color: rgb(94, 207, 255);
+    font-size:small;
+
+}
+
+h1
+{
+    padding-bottom: 30px;
+    border-bottom: 4px outset  blue;
+    padding-bottom:5px;
+    width: 130px;
+    /*margin-left: 250px;*/
+    margin-left: 240px;
+}
+.texto
+{
+    color: rgb(36, 152, 188);
+    font-size: small;
+}
+.supresa
+{
+    background-color: rgba(179, 214, 244, 0.663);
+    color:rgb(97, 177, 247);
+    border-radius: 20px;
+    border: 2px rgb(113, 183, 245) solid;
+    margin-top: 20px;
+    width: 130px;
+    height: 30px;
+}
+
+
+
